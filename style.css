@@ -2,3 +2,10 @@
     display: flex;
     justify-content: right;
 }
+.center{
+    display: flex;
+    justify-content: center;
+}
+.color-ash{
+    background: rgba(251, 250, 252, 0.641);
+}
